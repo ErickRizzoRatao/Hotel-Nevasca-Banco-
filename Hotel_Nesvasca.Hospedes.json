@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6a0b3aeed3f290e64a551910"
+  },
+  "nome": "Monica Aparecida Rizzo Ratão",
+  "documento": "111.222.333-44",
+  "email": "monica.rizzo@email.com",
+  "telefone": "+55 11 98888-8888"
+},
+{
+  "_id": {
+    "$oid": "6a0b3aeed3f290e64a551911"
+  },
+  "nome": "Márcio Ratão",
+  "documento": "555.666.777-88",
+  "email": "marcio.ratão@email.com",
+  "telefone": "+55 11 97777-7777"
+},
+{
+  "_id": {
+    "$oid": "6a0b3bbcd3f290e64a551912"
+  },
+  "nome": "Willian Rizzo Ratão",
+  "documento": "222.333.444-55",
+  "email": "willian.rizzo@email.com",
+  "telefone": "+55 11 96666-6666"
+},
+{
+  "_id": {
+    "$oid": "6a0b3bbcd3f290e64a551913"
+  },
+  "nome": "Isabela ",
+  "documento": "666.777.888-99",
+  "email": "isabela@email.com",
+  "telefone": "+55 11 92222-2222"
+}]
