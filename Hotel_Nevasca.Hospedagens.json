@@ -1,0 +1,81 @@
+[
+  {
+    "_id": {
+      "$oid": "6a0b5cff0c0486129e3a2fbf"
+    },
+    "reserva_id": {
+      "$oid": "6a0b3f400c0486129e3a2fbc"
+    },
+    "quarto_id": {
+      "$oid": "6a0b3c550c0486129e3a2fbb"
+    },
+    "data_entrada": {
+      "$date": "2026-05-02T14:00:00.000Z"
+    },
+    "data_saida": {
+      "$date": "2026-05-06T11:00:00.000Z"
+    },
+    "servicos_consumidos": [
+      {
+        "descricao": "Lavanderia",
+        "preco": 80,
+        "data": {
+          "$date": "2026-05-03T10:30:00.000Z"
+        }
+      },
+      {
+        "descricao": "Jantar no restaurante",
+        "preco": 180,
+        "data": {
+          "$date": "2026-05-04T20:00:00.000Z"
+        }
+      }
+    ],
+    "pagamentos": [
+      {
+        "metodo": "Cartão de Débito",
+        "valor": 1860,
+        "data": {
+          "$date": "2026-05-06T11:00:00.000Z"
+        },
+        "pago": true
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a0b5cff0c0486129e3a2fc0"
+    },
+    "reserva_id": {
+      "$oid": "6a0b3f400c0486129e3a2fbe"
+    },
+    "quarto_id": {
+      "$oid": "6a0b3c550c0486129e3a2fba"
+    },
+    "data_entrada": {
+      "$date": "2026-05-10T15:00:00.000Z"
+    },
+    "data_saida": {
+      "$date": "2026-05-13T11:00:00.000Z"
+    },
+    "servicos_consumidos": [
+      {
+        "descricao": "Café da manhã no quarto",
+        "preco": 60,
+        "data": {
+          "$date": "2026-05-11T08:00:00.000Z"
+        }
+      }
+    ],
+    "pagamentos": [
+      {
+        "metodo": "Pix",
+        "valor": 960,
+        "data": {
+          "$date": "2026-05-13T11:00:00.000Z"
+        },
+        "pago": true
+      }
+    ]
+  }
+]
