@@ -1,0 +1,71 @@
+[
+  {
+    "_id": {
+      "$oid": "6a0b3f400c0486129e3a2fbc"
+    },
+    "hospede": {
+      "hospede_id": {
+        "$oid": "6a0b3aeed3f290e64a551910"
+      },
+      "nome": "Monica Aparecida Rizzo Ratão",
+      "email": "monica.rizzo@email.com"
+    },
+    "quarto_id": {
+      "$oid": "6a0b3c550c0486129e3a2fba"
+    },
+    "data_checkin": {
+      "$date": "2026-05-08T14:00:00.000Z"
+    },
+    "data_checkout": {
+      "$date": "2026-05-12T12:00:00.000Z"
+    },
+    "status": "finalizada",
+    "valor_total_diarias": 2600
+  },
+  {
+    "_id": {
+      "$oid": "6a0b3f400c0486129e3a2fbd"
+    },
+    "hospede": {
+      "hospede_id": {
+        "$oid": "6a0b3bbcd3f290e64a551912"
+      },
+      "nome": "Marcio Ratão",
+      "email": "marcio.ratão@email.com"
+    },
+    "quarto_id": {
+      "$oid": "6a0b3c550c0486129e3a2fbb"
+    },
+    "data_checkin": {
+      "$date": "2026-06-01T14:00:00.000Z"
+    },
+    "data_checkout": {
+      "$date": "2026-06-05T12:00:00.000Z"
+    },
+    "status": "confirmada",
+    "valor_total_diarias": 6000
+  },
+  {
+    "_id": {
+      "$oid": "6a0b3f400c0486129e3a2fbe"
+    },
+    "hospede": {
+      "hospede_id": {
+        "$oid": "6a0b3bbcd3f290e64a551913"
+      },
+      "nome": "Willian Ratão",
+      "email": "willian.ratão@email.com"
+    },
+    "quarto_id": {
+      "$oid": "6a0b3c550c0486129e3a2fb9"
+    },
+    "data_checkin": {
+      "$date": "2026-05-18T14:00:00.000Z"
+    },
+    "data_checkout": {
+      "$date": "2026-05-21T12:00:00.000Z"
+    },
+    "status": "finalizada",
+    "valor_total_diarias": 750
+  }
+]
